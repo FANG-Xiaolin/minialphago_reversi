@@ -1,3 +1,6 @@
 *.pth.tar
 *.pth
+<<<<<<< HEAD
 *.example
+=======
+>>>>>>> 38362f26ef9f18dc3572befbe8220c6087763f7a
